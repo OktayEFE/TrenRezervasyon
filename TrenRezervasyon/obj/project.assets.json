@@ -920,11 +920,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oktayefe/Projects/TrenRezervasyon/TrenRezervasyon/TrenRezervasyon.csproj",
+      "projectUniqueName": "/Users/oktayefe/Documents/GitHub/TrenRezervasyon/TrenRezervasyon/TrenRezervasyon.csproj",
       "projectName": "TrenRezervasyon",
-      "projectPath": "/Users/oktayefe/Projects/TrenRezervasyon/TrenRezervasyon/TrenRezervasyon.csproj",
+      "projectPath": "/Users/oktayefe/Documents/GitHub/TrenRezervasyon/TrenRezervasyon/TrenRezervasyon.csproj",
       "packagesPath": "/Users/oktayefe/.nuget/packages/",
-      "outputPath": "/Users/oktayefe/Projects/TrenRezervasyon/TrenRezervasyon/obj/",
+      "outputPath": "/Users/oktayefe/Documents/GitHub/TrenRezervasyon/TrenRezervasyon/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oktayefe/.nuget/NuGet/NuGet.Config"
